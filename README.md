@@ -18,7 +18,7 @@ Fitur
 8.	Laporan jumlah setiap produk terjual, total unit, pendapatan, dan produk terlaris.
 9.	Memeriksa produk dengan stok kurang dari 5.
 10.	Validasi input dan penanganan kesalahan.
-11.	## Penerapan Array
+## Penerapan Array
 - char namaProduk[50][60]: array karakter dua dimensi untuk nama produk.
 - double harga[50]: array satu dimensi untuk harga.
 - int stok[50]: array satu dimensi untuk stok.

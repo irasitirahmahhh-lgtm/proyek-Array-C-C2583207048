@@ -1,11 +1,11 @@
-## Sistem Monitoring Stok dan Penjualan Kantin Kampus
-# Identitas Mahasiswa
+# Sistem Monitoring Stok dan Penjualan Kantin Kampus
+## Identitas Mahasiswa
 - Nama Lengkap: Ira siti rahmah
 - NIM: C2583207048
 - Kelas: PTI3-B
 - Mata Kuliah: Algoritma dan Pemrograman Lanjutan
 - Dosen Pengampu: Taofik Muhammad, M.Kom
-# Deskripsi
+## Deskripsi
 Aplikasi console menggunakan bahasa C untuk mengelola produk kantin, stok, transaksi pembelian beberapa produk, pencarian, pengurutan, dan laporan penjualan. Data disimpan di memori selama program berjalan.
 Fitur
 1.	Melihat daftar nama produk, harga, stok, dan jumlah terjual.

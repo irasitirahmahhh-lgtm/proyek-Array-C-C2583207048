@@ -18,6 +18,12 @@ Fitur
 8.	Laporan jumlah setiap produk terjual, total unit, pendapatan, dan produk terlaris.
 9.	Memeriksa produk dengan stok kurang dari 5.
 10.	Validasi input dan penanganan kesalahan.
+11.	## Penerapan Array
+- char namaProduk[50][60]: array karakter dua dimensi untuk nama produk.
+- double harga[50]: array satu dimensi untuk harga.
+- int stok[50]: array satu dimensi untuk stok.
+- int terjual[50]: array satu dimensi untuk jumlah unit terjual.
+Indeks yang sama pada setiap array mewakili satu produk. jumlahProduk menyimpan jumlah produk aktif. Data awal terdiri dari lima produk.
 ## Kompilasi dan Menjalankan
 Skenario Pengujian yang Wajib Didokumentasikan
 Ambil screenshot terminal untuk setiap skenario berikut, lalu masukkan gambar ke folder screenshots/. Ganti nama file sesuai contoh.

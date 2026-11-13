@@ -25,8 +25,6 @@ Fitur
 - int terjual[50]: array satu dimensi untuk jumlah unit terjual.
 Indeks yang sama pada setiap array mewakili satu produk. jumlahProduk menyimpan jumlah produk aktif. Data awal terdiri dari lima produk.
 ## Kompilasi dan Menjalankan
-Skenario Pengujian yang Wajib Didokumentasikan
-Ambil screenshot terminal untuk setiap skenario berikut, lalu masukkan gambar ke folder screenshots/. Ganti nama file sesuai contoh.
 1. Tambah produk
 - Bukti:
 -  <img width="392" height="506" alt="Screenshot 2026-11-11 082819" src="https://github.com/user-attachments/assets/6e5ff2b2-d540-4a29-834b-72e3150b4b98" />
